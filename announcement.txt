@@ -1,2 +1,5 @@
-Added PushToTak
-Fusion Stability
+Added this live updating annoucemnet board!
+
+New music
+
+Added PushToTalk
