@@ -1,5 +1,13 @@
-Added this live updating annoucemnet board!
+• Besides 2 player tag, infection is fully functional! It now has a tag sound and vibration.
 
-New music
+•  updated button colors and text colors
 
-Added PushToTalk
+• fixed color changing (it changes live again)
+
+• Mouth movement is more responsive
+
+• Fusion stability improvements 
+
+• fixed occulision culling
+
+• 2 player tag in the works!
