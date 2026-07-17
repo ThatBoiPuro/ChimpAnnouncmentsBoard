@@ -1,13 +1,9 @@
-• Besides 2 player tag, infection is fully functional! It now has a tag sound and vibration.
+• Infection is fully functional!
 
-•  updated button colors and text colors
+• updated button colors and text colors
 
-• fixed color changing (it changes live again)
+• fixed color changing
 
 • Mouth movement is more responsive
 
-• Fusion stability improvements 
-
-• fixed occulision culling
-
-• 2 player tag in the works!
+• Playfab and wardrobe and cosmetics in the works!
