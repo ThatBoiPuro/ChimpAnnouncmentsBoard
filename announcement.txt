@@ -1,9 +1,7 @@
-• Infection is fully functional!
+infection is fully functional!
 
-• updated button colors and text colors
+updated button colors and text colors
 
-• fixed color changing
+fixed color changing
 
-• Mouth movement is more responsive
-
-• Playfab and wardrobe and cosmetics in the works!
+turn and pushtotalk save and playfab wardrobe and cosmetics over the next 2 days
