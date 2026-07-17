@@ -1,7 +1,7 @@
-infection is fully functional!
+Infection
 
-updated button colors and text colors
+Updated Project to unity 6000.3.9f1
 
-fixed color changing
+Color Changing
 
-turn and pushtotalk save and playfab wardrobe and cosmetics over the next 2 days
+Fusion Stablilty For Lag
