@@ -2,6 +2,8 @@ Infection
 
 Updated Project to unity 6000.3.9f1
 
+Updated To ARMV9A For Quest 3, 3s. And ARMV8A For Quest 2
+
 Color Changing
 
 Fusion Stablilty For Lag
