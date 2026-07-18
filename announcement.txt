@@ -1,4 +1,6 @@
-Added Cosmetics. (playfab is down so can buy, ask me for them)
+Added Cosmetics. You Can Buy Them Now
+
+Added The Ablilty To See Your Money
 
 Updated Project to unity 6000.3.9f1
 
