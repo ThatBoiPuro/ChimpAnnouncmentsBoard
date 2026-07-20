@@ -1,11 +1,11 @@
-Added Cosmetics. You Can Buy Them Now
+FOREST REVAMP! (please tell me request and chnages!)
 
-Added The Ablilty To See Your Money
+New Monitor (ty sage lol)
 
-Updated Project to unity 6000.3.9f1
+Networked color changing
 
-Updated To ARMV9A For Quest Pro, 3, 3s. And ARMV8A For Quest 2
+Colors in infection
 
-Color Changing (Not Networked Yet)
+More cosmetics
 
-Fusion Stablilty For Lag
+Release soon!
