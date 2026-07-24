@@ -1,17 +1,5 @@
-Slanted Forest walls for wall running
+Added LIV Camera (please make vids)
 
-Added LIV camera
+New Mirror's
 
-Added crown tag gamemode
-
-Improved revamp models
-
-Added better mirrors
-
-Added what the scene switcher for maps will look like
-
-Added visual for what game mode your in
-
-Better textures on buttons
-
-cosmeitcs in wardrobe are more level
+Planning release date
